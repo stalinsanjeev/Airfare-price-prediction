@@ -55,6 +55,6 @@ that fluctuation and giving the fare prices
 
 Model used : 
 
-![alt text](http://url/to/img.png)
+![alt text](model.png)
 
 
