@@ -53,8 +53,14 @@ that fluctuation and giving the fare prices
 
 
 
-Model used : 
+#Model used : 
 
 ![alt text](model.png)
+
+#Pipelining :
+![alt text](pipelining.png)
+
+#Actual and Predicted Results : 
+![alt text](results.png)
 
 
