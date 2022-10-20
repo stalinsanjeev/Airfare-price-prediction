@@ -28,3 +28,21 @@ study suggests that mining historical airfare data and
 modeling using machine learning algorithms can help
 predict price trend and save consumers substantial sum of
 money
+
+
+Almost all airline companies base their ticket price on demand
+estimation models and implement various dynamic pricing
+strategies in order to regulate seats demand and maximize their
+revenue. These corporations are said to use some proprietary
+software to evaluate ticket price per seat on a given day for a
+particular flight but the algorithms used are guarded with
+commercial secrets. These companies usually tie up with various
+online ticket sale channels (yatra.com, makemytrip.com,
+paytm.com) which maintains real time data on ticket price and
+constantly updates this price per seat over time. These channels
+are usually available over the internet where the traveler can
+book the ticket conveniently paying some convenience charges.
+This constant updating of prices results in high fluctuation
+which often confuses consumers as to when book their flight
+tickets to get best of the deals. This project focuses on reducing
+that fluctuation and giving the fare prices
