@@ -50,3 +50,11 @@ This constant updating of prices results in high fluctuation
 which often confuses consumers as to when book their flight
 tickets to get best of the deals. This project focuses on reducing
 that fluctuation and giving the fare prices
+
+
+
+Model used : 
+
+![alt text](http://url/to/img.png)
+
+
